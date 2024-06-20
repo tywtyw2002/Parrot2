@@ -89,7 +89,7 @@ Parrot:RegisterCombatEvent {
     subCategory = L["Loot"],
     name = "Loot items",
     localName = L["Loot items"],
-    defaultTag = L["[Name]"],
+    defaultTag = "[Name]",
     tagTranslations = {
         Name = "name",
         Icon = "icon",
@@ -131,7 +131,7 @@ Parrot:RegisterCombatEvent {
     subCategory = L["Loot"],
     name = "Loot money",
     localName = L["Loot money"],
-    defaultTag = L["[Amount]"],
+    defaultTag = "[Amount]",
     tagTranslations = {
         Amount = "amount",
         Icon = "icon",
